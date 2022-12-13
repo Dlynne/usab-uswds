@@ -166,7 +166,7 @@ Tube Holder
       <h4>General Readability and Layout</h4>
       <p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="rectangular document with boxes and arrows"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Rectangular document with boxes and arrows"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -212,13 +212,13 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Numerous warnings embedded in copy"> <span class="grid-line text-italic">Numerous warnings embedded in copy</span>
+      <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Instructions for use with warning symbols and messages in grey and blending with the rest of the text"> <span class="grid-line text-italic">Numerous warnings embedded in copy</span>
       <p>Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Targeted warnings, visually differentiated from plain copy"> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
-      <p>Esential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).</p>
+      <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Instructions for use with targeted warnings in red and visually differentiated from plain copy"> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
+      <p>Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).</p>
     </div>
   </div>
 </div>
@@ -228,19 +228,19 @@ Tube Holder
       <h4>Physical Embodiment</h4>
       <p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="multi-folded instructions for use document."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Information split along paper fold"> <span class="grid-line text-italic">Information split along paper fold</span>
+      <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Close-up image of text spilling over the folded edge of the pape"> <span class="grid-line text-italic">Information split along paper fold</span>
       <p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Information contained within folded panels</span>
+      <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="Close-up image of text properly contained within a folded panel of the instructions"> <span class="grid-line text-italic">Information contained within folded panels</span>
       <ul>
         <li>Ensure paper creases only appear in the margins of text columns. Text columns should be equal width.</li>
         <li>Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.</li>
@@ -253,15 +253,15 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Instructions-that-require-full-unfolding.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions that require full unfolding</span>
+      <img class="img-full" src="../images/Instructions-that-require-full-unfolding.jpg" alt="Table top with test kit and fully unfolded set of instructions"> <span class="grid-line text-italic">Instructions that require full unfolding</span>
       <ul>
         <li>It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.</li>
-        <li>Tests with fluid can result in spills which can deteriorate less robust instructional materials.</li>
+        <li>Tests with fluid can result in spills, which can deteriorate less robust instructional materials.</li>
       </ul>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
+      <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="Table top with test kit and a set of instructions that remain folded"> <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
       <ul>
         <li>Provide instructions in a manner that they can be placed adjacent to a test kit on a table.</li>
         <li>Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
@@ -273,12 +273,12 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are too large for scanning</span>
+      <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="Mobile phone hovering over a large, open set of instructions"> <span class="grid-line text-italic">Instructions are too large for scanning</span>
       <p>Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
+      <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="Mobile phone hovering over a folded panel of the instructions for use"> <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
       <ul>
         <li>Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").</li>
         <li>Use page numbers for multiple panels on the front and back.</li>
@@ -295,19 +295,19 @@ Tube Holder
       <h4>Graphics, Images and Symbols</h4>
       <p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Fingers holding a tube of buffer with a swab inserted in the tube. Arrows point toward the tube from either side, indicating that the fingers are pinching the side of the tube."> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
+      <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="Three-dimensional rendering of a white test kit tube standing on a wodden table in front of a cream background"> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
       <p>Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Line drawings improve comprehension</span>
+      <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="Three-dimensional, black line drawing of a test kit tube"> <span class="grid-line text-italic">Line drawings improve comprehension</span>
       <ul>
         <li>Use high-quality, high-contrast, thick line drawings with perspective instead of photos.</li>
         <li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).</li>
@@ -319,12 +319,12 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>
+      <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="Two dimensional line drawng of a test kit tube with thin black lines. A two-dimensional illustration of a test kit tube using color fills of two shades of grey"> <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>
       <p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
+      <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="Three-dimensional line drawing of a test kit tube with thick black lines"> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
       <p>Where possible, use 3D renderings with perspective and solid colors.</p>
     </div>
   </div>
@@ -333,7 +333,7 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Images-without-context.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Images without context</span>
+      <img class="img-full" src="../images/Images-without-context.jpg" alt="Line drawings of a swab and test tube with green arrows"> <span class="grid-line text-italic">Images without context</span>
       <ul>
         <li>Images without context do not inform readers about relative component size.</li>
         <li>They force the reader to guess where and how components are to be utilized.</li>
@@ -341,7 +341,7 @@ Tube Holder
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Images-with-context.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Images with context</span>
+      <img class="img-full" src="../images/Images-with-context.jpg" alt="Line drawings of a swab inserted into a nostril and a test tube held between fingertips"> <span class="grid-line text-italic">Images with context</span>
       <ul>
         <li>Make use of graphics that provide physical context for the reader (e.g., include hands, noses).</li>
         <li>Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).</li>
@@ -353,12 +353,12 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Non-standard symbols</span>
+      <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="Non-standard symbols paired with the words power, on, off, bluetooth, and sound"> <span class="grid-line text-italic">Non-standard symbols</span>
       <p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Standard symbols</span>
+      <img class="img-full" src="../images/Standard-symbols.jpg" alt="Standard symbols paired with the words power, on, off, bluetooth, and sound"> <span class="grid-line text-italic">Standard symbols</span>
       <p>Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.</p>
     </div>
   </div>
@@ -367,12 +367,12 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings without realistic detail</span>
+      <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="Side-by-side representions of an actual vial and cartridge with simple drawn versions of each"> <span class="grid-line text-italic">Drawings without realistic detail</span>
       <p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings with realistic detail</span>
+      <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="Side-by-side representions of an actual vial and cartridge with drawn versions of each that include details like cap color and markings found on the cartridge"> <span class="grid-line text-italic">Drawings with realistic detail</span>
       <ul>
         <li>Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).</li>
         <li>Use grayscale sparingly and retain outlining of gray features.</li>
@@ -422,19 +422,19 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Identification</h5>
       <p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Line drawing of a box with clearly visible text, logo, and QR code"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="Array of seven lillustrated boxes where only one side of labeling content is visible"> <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>
       <p>Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="Three illustrated boxes showing multiple views of the box labeling content"> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
       <p>Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.</p>
     </div>
   </div>
@@ -443,12 +443,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with poor legibility</span>
+      <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="Box illustration with small text on the label"> <span class="grid-line text-italic">Box labeling with poor legibility</span>
       <p>Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with improved legibility</span>
+      <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="Box illustration with legible text on the label"> <span class="grid-line text-italic">Box labeling with improved legibility</span>
       <ul>
         <li>Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).</li>
         <li>Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.</li>
@@ -460,13 +460,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>
+      <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="Illustrated gray box with text. Grid of colors paired with text of similar colors"> <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>
       <p>Much of standard packaging is filled with lots of information with poor color contrast.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
-      <p>Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).</p>
+      <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="Illustrated black and white box with text. Grid of colors paired with text in contrasting colors"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
+      <p>Use effective color contrast on outer packaging (refer to Text Perfection for design considerations).</p>
     </div>
   </div>
 </div>
