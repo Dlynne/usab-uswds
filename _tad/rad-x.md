@@ -16,59 +16,60 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 
 The National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative to speed innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While these programs have increased testing capacity in the U.S. by billions, there is a continuing need to develop at-home COVID-19 tests that are accessible to all users including populations that have no vision or low vision, a reduced range of dexterity or motor skills, and that are aging.
 
-Within RADx Tech, the RADx Deployment Core has focused on increasing accessibility of at-home COVID-19 tests. As first steps, research was conducted to locate pre-existing accessible product design guidelines and engineering design groups were consulted. One of the immediate and surprising insights to come from these efforts was the lack of comprehensive in vitro diagnostic (IVD) guidelines or standards for accessible design of in vitro diagnostic (IVD) products for manufacturers and engineers. Advocacy groups and foundations that have a deep base of knowledge on the experience and needs of people with these types of challenges were engaged.
+Within RADx Tech, the RADx Deployment Core has focused on increasing accessibility of at-home COVID-19 tests. As first steps, research was conducted to locate pre-existing accessible product design guidelines and engineering design groups were consulted. One of the immediate and surprising insights to come from these efforts was the lack of comprehensive in vitro diagnostic (IVD) guidelines or standards for accessible design of IVD products for manufacturers and engineers. Advocacy groups and foundations that have a deep knowledge of the experience and needs of people with these types of challenges were engaged.
 
-Due to the lack of fully accessible at-home COVID-19 tests, a research funding program was created with the purpose of developing more accessible tests. Through this effort, members of advocacy groups continue to be engaged to help provide feedback on device usability and work through design challenges for these populations. RADx Tech experts are actively working with manufacturers to address device design, packaging, and modes of instruction, among other challenges.
+Due to the lack of fully accessible at-home COVID-19 tests, a research funding program was created with the purpose of developing more accessible tests.
+Through this effort, members of advocacy groups continue to be engaged to help provide feedback on device usability and troubleshoot design challenges for these populations. RADx Tech experts are actively working with manufacturers to address device design, packaging, and modes of instruction, among other challenges.
 
-Through knowledge garnered from all the above actions, a comprehensive, practical and useful set of Best Practice Recommendations was created to help fill a critical need in the design community. It is intended that this document will be used primarily by manufacturers for designing more accessible IVDs. While the goal of the document is to provide recommendations for making an at-home diagnostic kit accessible to aging populations and/or users with visual/motor disabilities, many of the recommendations will improve the overall usability and will likely result in universal access to the test kit. The document will be hosted by U.S. Access Board on their website and is scheduled for release in the first half of 2023.
+Through knowledge garnered from all the above actions, a comprehensive, practical and useful set of Best Practice Recommendations was created to help fill a critical need in the design community. It is intended that this document will be used primarily by manufacturers for designing more accessible IVDs. While the goal of the document is to provide recommendations for making an at-home diagnostic kit accessible to aging populations and/or users with visual/motor disabilities, many of the recommendations will improve the overall usability and will likely result in universal access to the test kit.
 
-When this work began, it was recognized that there was a need to provide information to the manufacturing and engineering communities as soon as possible. This document is an abridged version of Best Practice Recommendations, and covers topics prioritized for early release.
+When this work began, it was recognized that there was a need to provide information to the manufacturing and engineering communities as soon as possible. This document is an abridged version of Best Practice Recommendations, and covers topics prioritized for early release. A more complete version is expected to be posted in the first half of 2023.
 
 ---
 
 ### Glossary
 
 Cartridge
-: Device where a liquid sample is applied and a result is communicated visually or by a test reader once the sample is processed.
+: Device where a sample is added, processed, and a result is communicated visually or by a test reader.
 
 Dropper
-: Device intended to contain the buffer fluid into which the sample is introduced and transferred to the Cartridge. May be integrated into a Fluid Vial.
+: Device usually intended to contain the buffer fluid into which the sample is introduced and transferred to the cartridge. May be integrated into a fluid vial.
 
 Fluid Vial
-: Container of fluid intended to be dispensed into another container (e.g., Dropper).
+: Container of fluid intended to be dispensed into another container (e.g., dropper).
 
 Haptic Feedback
-: Feedback that creates a touch experience for the user through application of force or motion. Tends to be related to dynamic physical features (e.g., phone vibration) (See also Tactile Feedback).
+: Feedback that creates a touch experience for the user through application of force or motion. Tends to be related to dynamic physical features (e.g., phone vibration) (See also tactile feedback).
 
 Lateral Flow Assay (LFA)
-: Also referred to as a lateral flow device, a rapid test, or a lateral flow immunochromatographic assay) A device intended to detect the presence of a target substance in a liquid sample without the need for specialized and costly equipment.
+: (Also referred to as a lateral flow device, a rapid test, or a lateral flow immunochromatographic assay) A device intended to detect the presence of a target substance in a liquid sample without the need for specialized and costly equipment.
 
 Optical Character Recognition (OCR)
-: Software that converts non-editable document formats such as PDFs, images or paper documents into machine- readable formats that are editable and searchable.
+: Software that converts non-editable document formats such as PDFs, images or paper documents into machinereadable formats that are editable and searchable.
 
 Quick Response (QR) Code
 : A type of matrix barcode that can be read easily by a digital device, which stores information as a series of pixels in a square-shaped grid.
 
 Quick Reference Guide (QRG)
-: (Also referred as Quick Reference Information (QRI)) A short version of the test instructions. It is intended for untrained operators and contains the step-by-step instructions needed to perform the test with a negligible likelihood of erroneous results.
+: (Also referred to as Quick Reference Information (QRI)) A short version of the test instructions. It is intended for untrained operators and contains the step-by-step instructions needed to perform the test with a negligible likelihood of erroneous results.
 
 Responsive Web Design
-: Also referred to as responsive design) An approach to web design that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.
+: (Also referred to as responsive design) An approach to web design that aims to make web pages render on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.
 
 Screen Reader
-: A software program or an application that enables no vision or low vision users to convert text displayed on a computer screen, tablet or phone into synthesized speech or to a refreshable braille display. A screen reader is the interface between the computer's software and the user. It enables users to perform any operation on a computer (e.g., JAWS and NVDA on Windows; VoiceOver on macOS, iOS, iPadOS, and tvOS; and TalkBack on Android phones, tablets, and kiosks).
+: A software program or an application that enables no-vision or low-vision users to convert text displayed on a computer screen, tablet or phone into synthesized speech or to a refreshable braille display. A screen reader is the interface between the computer’s software and the user. It enables users to perform any operation on a computer (e.g., JAWS and NVDA on Windows; VoiceOver on macOS, iOS, iPadOS, and tvOS; and TalkBack on Android phones, tablets, and kiosks).
 
 Swab
 : The sample collection device with one part intended to be held in the hand and another part placed into the nostril.
 
 Tactile Feedback
-: Feedback that is perceptible by touch. Tends to be related to static physical features (e.g., a button that is higher than the device surface) (See also Haptic Feedback).
+: Feedback that is perceptible by touch. Tends to be related to static physical features (e.g., a button that is higher than the device surface) (See also haptic feedback).
 
 Test Reader
-: Device which accepts Cartridges and/or analyzes a sample and provides a test result.
+: Device which accepts cartridges and/or analyzes a sample and provides a test result.
 
 Tube Holder
-: Device which holds a Fluid Vial in an upright position.
+: Device which holds a fluid vial in an upright position.
 
 ---
 
@@ -77,8 +78,8 @@ Tube Holder
 ### Physical Components
 
 1.1 Instructions/Accessing Information \
-1.2 Packaging \
-1.3 Kitting
+1.2 Package Design \
+1.3 Kit Design
 
 ---
 
@@ -95,9 +96,9 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h4>Text Perception</h4>
-      <p>Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.</p>
+      <p>Physical instruction in the form of text is one important way to convey information, as it can be provided directly on packaging or on a separate component inside packaging.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/Text-Perception.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
+    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/Text-Perception.jpg" alt="Folded paper sheet of instructions."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -105,7 +106,7 @@ Tube Holder
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <ul>
-        <li>Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
+        <li>Some instructions include the use of hard-to-read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
         <li>Instructions are also challenging to read when multiple fonts and typefaces are used.</li>
       </ul>
     </div>
@@ -124,7 +125,7 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
+      <img class="img-full" src="../images/instructions-issue.jpg" alt="Instructions for use with small point size, light grey font and a small QR code"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
       <ul>
         <li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
         <li>Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.</li>
@@ -133,11 +134,11 @@ Tube Holder
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="Instructions for use with easy-to-read point size, bolded copy, dark black font, and a legible QR code"> <span class="grid-line text-italic">Key information stands apart</span>
       <ul>
         <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
         <li>Provide QR codes measuring larger than one-half inch square.</li>
-        <li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before [date]' or 'Do no use after [date]'.</li>
+        <li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in unique device identifier (UDI) format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before [date]' or 'Do not use after [date]'.</li>
       </ul>
     </div>
   </div>
@@ -146,13 +147,13 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-large center" src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
+      <img class="img-large center" src="../images/text-perception-issue.jpg" alt="Instructions for use with grey text on a grey background, making it hard to distinguish. A grid of colors and text that are too similar to one another, making it hard to distinguish the copy from the color backgrounds"> <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
       <p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-large center" src="../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
-      <p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).</p>
+      <img class="img-large center" src="../images/text-perception-recommendation.jpg" alt="Instructions for use with dark text on a white page, showing appropriate contrast. A grid of colors with appropriately contrasting color text."> <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
+      <p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like The Paciello Group Interactive’s (TPGi’s) Colour Contrast Analyser (CCA).</p>
     </div>
   </div>
 </div>
@@ -165,7 +166,7 @@ Tube Holder
       <h4>General Readability and Layout</h4>
       <p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Layout considerations for readability"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="rectangular document with boxes and arrows"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -190,7 +191,7 @@ Tube Holder
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
-      <img class="img-full" src="../images/Text-layout-with-inconsistent-information-flow.jpg" alt="Text layout with inconsistent information flow"> <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
+      <img class="img-full" src="../images/Text-layout-with-inconsistent-information-flow.jpg" alt="Rectangular document showing blocks of images and texts with a series of red arrows pointing in many different directions"> <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
       <ul>
         <li>Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.</li>
         <li>Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.</li>
@@ -198,7 +199,7 @@ Tube Holder
     </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
-      <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Recommended text layout and in formation flow"> <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
+      <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Rectangular document with blocks of copy and images stacked in four columns. Green arrows point up and down and to the next column, indicating an easy reading flow."> <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
       <ul>
         <li>Use a consistent layout. A columnar layout works best. Use the flow scheme shown above. Blocks are arranged in columns; columns are arranged left to right. Use narrow columns.</li>
         <li>Present document in landscape format if possible.</li>
